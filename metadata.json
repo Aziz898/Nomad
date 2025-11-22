@@ -1,0 +1,5 @@
+{
+  "name": "NomadTrip AI",
+  "description": "AI-powered travel planner that curates flight, hotel, and activity packages based on your preferences.",
+  "requestFramePermissions": []
+}
